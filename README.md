@@ -20,6 +20,6 @@ Tableau
 Matplotlib
 Seaborn
 
-If you would like to get in touch with me, you can find me on LinkedIn (https://www.linkedin.com/in/dfar13/) or email me at Twitter (https://twitter.com/daniel_arriagar). I'm excited to connect with you!✨
+If you would like to get in touch with me, you can find me on LinkedIn (https://www.linkedin.com/in/dfar13/) or Twitter (https://twitter.com/daniel_arriagar). I'm excited to connect with you!✨
 
 Thanks for visiting my GitHub profile!:green_heart:
