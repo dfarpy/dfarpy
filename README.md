@@ -1,4 +1,4 @@
-![With Digital Ads](https://user-images.githubusercontent.com/118485803/225651325-1568e60d-e79a-44bc-ab3d-7ff071b8ce5a.png)
+![Banner de LinkedIn Tecnología Abstracto Azul y Blanco](https://user-images.githubusercontent.com/118485803/225654946-1272d6a9-16d4-4d27-8c84-f6000c22de78.png)
 
 
 ### Hi there 👋
