@@ -1,4 +1,5 @@
-![Banner de LinkedIn Tecnología Abstracto Azul y Blanco](https://user-images.githubusercontent.com/118485803/225654946-1272d6a9-16d4-4d27-8c84-f6000c22de78.png)
+![Banner de LinkedIn Tecnología Abstracto Azul y Blanco (1)](https://user-images.githubusercontent.com/118485803/225868497-1022265c-c220-42b1-9947-1316c4a90653.png)
+
 
 
 ### Hi there 👋
