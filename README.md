@@ -1,26 +1,18 @@
 ![Banner de LinkedIn Tecnología Abstracto Azul y Blanco (1)](https://user-images.githubusercontent.com/118485803/225868497-1022265c-c220-42b1-9947-1316c4a90653.png)
 
 
+Hi there! 👋
 
-### Hi there 👋
-Welcome to my GitHub Profile
-I am Daniel Arriaga :technologist: , a passionate Data Analyst who loves working with Python for data analysis and visualization. I also have experience working with tools like Excel and Cognos Analytics. :chart_with_upwards_trend:
+Welcome to my GitHub profile! I'm Daniel Arriaga 🧑‍💻, a Python developer with a passion for cybersecurity, data, and artificial intelligence. Here you'll find an exciting collection of projects that showcase my expertise in these domains.
 
-Skills
-Data Analysis
-I use Python as my primary tool for data analysis. I am comfortable working with libraries such as:
+In my repositories, you'll discover projects related to ethical hacking and cybersecurity, where I leverage the power of Python to tackle security challenges. These projects aim to create awareness and promote responsible practices in the digital world.
 
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Data Visualization
-Data visualization is one of my passions. I use the following tools to create impactful visualizations:
+Additionally, I delve into the realm of data analysis using Python. I employ popular libraries such as Pandas, NumPy, Matplotlib, and Seaborn to extract valuable insights from datasets and uncover meaningful patterns.
 
-Tableau
-Matplotlib
-Seaborn
+Furthermore, my GitHub hosts projects in the field of artificial intelligence. I explore cutting-edge algorithms and techniques, implementing them with Python to solve complex problems and enhance decision-making processes.
 
-If you would like to get in touch with me, you can find me on LinkedIn (https://www.linkedin.com/in/dfar13/) or Twitter (https://twitter.com/daniel_arriagar). I'm excited to connect with you!✨
+Data visualization is a skill that I truly enjoy, and I utilize powerful tools like Tableau, Matplotlib, and Seaborn to create visually captivating representations of data.
 
-Thanks for visiting my GitHub profile!:green_heart:
+If you're interested in connecting with me, feel free to reach out via LinkedIn (https://www.linkedin.com/in/dfar13/) or Twitter (https://twitter.com/daniel_arriagar). I'm thrilled to connect and engage with like-minded professionals in the field.
+
+Thank you for visiting my GitHub profile! 💚
