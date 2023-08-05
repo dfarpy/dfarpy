@@ -1,5 +1,5 @@
-![Banner de LinkedIn Tecnología Abstracto Azul y Blanco (1)](https://user-images.githubusercontent.com/118485803/225868497-1022265c-c220-42b1-9947-1316c4a90653.png)
 
+![Black Modern Graphic Designer LinkedIn Banner](https://github.com/dfarpy/dfarpy/assets/118485803/eda15617-08dc-457d-ab93-9e332772c945)
 
 Hi there! 👋
 
