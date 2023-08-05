@@ -13,6 +13,6 @@ Furthermore, my GitHub hosts projects in the field of artificial intelligence. I
 
 Data visualization is a skill that I truly enjoy, and I utilize powerful tools like Tableau, Matplotlib, and Seaborn to create visually captivating representations of data.
 
-If you're interested in connecting with me, feel free to reach out via LinkedIn (https://www.linkedin.com/in/dfar13/) or Twitter (https://twitter.com/daniel_arriagar). I'm thrilled to connect and engage with like-minded professionals in the field.
+If you're interested in connecting with me, feel free to reach out via LinkedIn (https://www.linkedin.com/in/dfar13/). I'm thrilled to connect and engage with like-minded professionals in the field.
 
 Thank you for visiting my GitHub profile! 💚
