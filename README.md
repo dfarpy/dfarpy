@@ -1,7 +1,7 @@
 
 ![Black Modern Graphic Designer LinkedIn Banner](https://github.com/dfarpy/dfarpy/assets/118485803/eda15617-08dc-457d-ab93-9e332772c945)
 
-# 👋 ¡Hola! Soy Daniel Farfán
+# 👋 ¡Hola! Soy Daniel Arriaga
 
 🎯 Analista de Datos en el sector bancario con una fuerte pasión por la ciberseguridad y la automatización con Python.
 
